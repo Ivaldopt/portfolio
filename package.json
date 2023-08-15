@@ -1,0 +1,20 @@
+{
+  "name": "portfolio_frontend_developer",
+  "version": "0.0.1",
+  "description": "Homepage for portfolio Ivaldo Almeida",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "E",
+    "JAVASCREPT\u001b[D\u001b[I"
+  ],
+  "author": "Ivaldo Almeida",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
